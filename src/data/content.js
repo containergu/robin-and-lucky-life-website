@@ -25,11 +25,11 @@ export const achievements = [
     id: 1,
     title: "Wheels of Glory! 🚲",
     date: "2025-05-29",
-    description: "Huge news in our house today: Robin learned how to ride a bike!
+    description: `Huge news in our house today: Robin learned how to ride a bike!
       After a few wobbly starts and a lot of cheering, something just clicked this afternoon at OES. Suddenly, the training wheels were gone, and Robin was pedaling—a little slow at first, then faster, then a full, triumphant lap!
-      The smile was absolutely priceless. It wasn't just a bike ride; it was a pure moment of self-belief.
+      The smile was absolutely priceless. It was not just a bike ride; it was a pure moment of self-belief.
       So proud of my amazing, two-wheeled kid! Watch out, world, Robin is mobile! 🎉
-      What adventure should we tackle next? ",
+      What adventure should we tackle next? `,
     image: "First biking"
   },
   {
