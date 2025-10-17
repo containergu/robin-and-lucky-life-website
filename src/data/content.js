@@ -36,7 +36,7 @@ export const achievements = [
     id: 2,
     title: "Lucky Learned a New Trick",
     date: "2025-10-10",
-    description: "Lucky finally learned how to sit and stay on command! It took weeks of practice, but now he's a pro. We're so proud of him!",
+    description: "Lucky finally learned piano on command! It took minutes of practice, but now she's a pro. We're so proud of her!",
     image: "lucky-dog-1"
   }
 ];
@@ -44,16 +44,16 @@ export const achievements = [
 export const adventures = [
   {
     id: 1,
-    title: "Garden Adventures",
-    date: "2025-10-12",
-    description: "Robin spent the afternoon in the garden, planting flowers and vegetables. She loves getting her hands dirty and watching things grow!",
+    title: "Jackson Town Square",
+    date: "2025-07-16",
+    description: "We visited Yellowstone and Grand Teton for the summer trip. It was fun!",
     images: ["robin-garden"]
   },
   {
     id: 2,
-    title: "Park Day with Lucky",
-    date: "2025-10-08",
-    description: "We took Lucky to the park for a fun day of running and playing. He made lots of new doggy friends and had the best time chasing balls!",
+    title: "Some Summer Fun with Lucky",
+    date: "2025-08-20",
+    description: "Summer's almost over, but we packed it full! We loved the fishing, the biking, and the scooting, but the best part was spending time with Lucky!",
     images: ["robin-and-lucky-outdoor", "lucky-dog-grass"]
   }
 ];
