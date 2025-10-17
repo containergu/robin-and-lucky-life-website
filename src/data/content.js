@@ -15,7 +15,7 @@ export const blogPosts = [
     title: "A Day in Liggle Land",
     date: "2025-09-06",
     excerpt: "Robin had a great day at Liggle Land and won a super cute bunny from the claw machine!",
-    content: "Liggle Land was so much fun! Robin and Lucky spent the afternoon playing games. The highlight was when Robin finally managed to win the biggest, softest bunny from the claw machine on her last try. She named him Professor Fluffybottom.",
+    content: "Liggle Land was so much fun! Robin spent the afternoon playing games. The highlight was when Robin finally managed to win the biggest, softest bunny from the claw machine on her last try. ",
     image: "robin-library"
   }
 ];
