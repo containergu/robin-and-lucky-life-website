@@ -54,7 +54,7 @@ export function Home() {
               key={image.id}
               src={`/photos/${image.src}.webp`}
               alt={image.alt}
-              className="absolute inset-0 w-full h-full object-cover"
+              className="absolute inset-0 w-full h-full object-contain"
               initial={{ opacity: 0 }}
               animate={{ opacity: index === currentImageIndex ? 1 : 0 }}
               transition={{ duration: 0.8 }}
@@ -134,7 +134,7 @@ export function Home() {
               <img
                 src={`/photos/${image.src}.webp`}
                 alt={image.alt}
-                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
+                className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-300"
               />
             </div>
           ))}
