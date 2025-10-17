@@ -23,10 +23,14 @@ export const blogPosts = [
 export const achievements = [
   {
     id: 1,
-    title: "Perfect Attendance Award",
-    date: "2025-09-30",
-    description: "Robin received a Perfect Attendance Award for the first quarter of school! She didn't miss a single day and was always on time.",
-    image: null
+    title: "Wheels of Glory! 🚲",
+    date: "2025-05-29",
+    description: "Huge news in our house today: Robin learned how to ride a bike!
+      After a few wobbly starts and a lot of cheering, something just clicked this afternoon at OES. Suddenly, the training wheels were gone, and Robin was pedaling—a little slow at first, then faster, then a full, triumphant lap!
+      The smile was absolutely priceless. It wasn't just a bike ride; it was a pure moment of self-belief.
+      So proud of my amazing, two-wheeled kid! Watch out, world, Robin is mobile! 🎉
+      What adventure should we tackle next? ",
+    image: "First biking"
   },
   {
     id: 2,
@@ -62,6 +66,7 @@ export const galleryImages = [
   { id: 4, src: "lucky-dog-2", alt: "Lucky posing", category: "lucky" },
   { id: 5, src: "robin-and-lucky-outdoor", alt: "Robin and Lucky outdoors", category: "together" },
   { id: 6, src: "robin-garden", alt: "Robin in the garden", category: "robin" },
-  { id: 7, src: "lucky-dog-grass", alt: "Lucky on the grass", category: "lucky" }
+  { id: 7, src: "lucky-dog-grass", alt: "Lucky on the grass", category: "lucky" },
+  { id: 9, src: "First biking", alt: "First time biking", category: "robin" } 
 ];
 
