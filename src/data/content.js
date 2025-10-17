@@ -12,10 +12,10 @@ export const blogPosts = [
   },
   {
     id: 2,
-    title: "A Day at the Library",
-    date: "2025-10-15",
-    excerpt: "Today Robin spent time at the library working on her homework and reading her favorite books.",
-    content: "Today Robin spent time at the library working on her homework and reading her favorite books. The library is one of her favorite places because it's quiet and she can focus on her studies. She's currently reading an amazing adventure series!",
+    title: "A Day in Liggle Land",
+    date: "2025-09-06",
+    excerpt: "Robin had a great day at Liggle Land and won a super cute bunny from the claw machine!",
+    content: "Liggle Land was so much fun! Robin and Lucky spent the afternoon playing games. The highlight was when Robin finally managed to win the biggest, softest bunny from the claw machine on her last try. She named him Professor Fluffybottom.",
     image: "robin-library"
   }
 ];
