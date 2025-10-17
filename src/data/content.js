@@ -55,6 +55,7 @@ export const adventures = [
 ];
 
 export const galleryImages = [
+  { id: 8, src: "quartet", alt: "Robin is play the quartet", category: "robin" }, // New image added here
   { id: 1, src: "robin-desk-1", alt: "Robin working at her desk", category: "robin" },
   { id: 2, src: "robin-library", alt: "Robin at the library", category: "robin" },
   { id: 3, src: "lucky-dog-1", alt: "Lucky the dog", category: "lucky" },
